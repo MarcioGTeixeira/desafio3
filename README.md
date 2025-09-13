@@ -23,7 +23,7 @@ regras de validação são:
 o Nome: não pode ser vazio 
 o Data de nascimento: não pode ser data futura (dica: use @PastOrPresent)
 <p>
-Busca de cliente por id
+Busca de cliente por id<br>
 GET /clients/1
 </p>  
 Busca paginada de clientes<br>
